@@ -3,6 +3,9 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
+    <div className="flex justify-center items-center h-screen bg-gray-100">
+      <h1 className="text-3xl font-bold underline">Welcome to Shadcn App!</h1>
+    </div>
     <div className={styles.page}>
       <main className={styles.main}>
         <Image
