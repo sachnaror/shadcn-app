@@ -1,3 +1,6 @@
+// Mark this file as a Client Component
+"use client";
+
 import Link from 'next/link';
 import { useState } from 'react';
 
