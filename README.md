@@ -1,9 +1,9 @@
 
 
-# 🎉 Welcome to Shadcn's Crazy Experiment! 🚀
+# 🎉 Welcome to Shadcn's Experiment! 🚀
 
 ## 🥳 What is this?
-This is a delightful little experiment where we play around with Shadcn components. Why? Because who doesn’t like to sprinkle a little fun into their code? It’s like adding chocolate chips to your salad—unexpected but oddly satisfying!
+This is a delightful little experiment where i played around to check Shadcn and its components. Why? Because who doesn’t like to sprinkle a little fun with newbie in town ? It’s like adding chocolate chips to your salad—unexpected but oddly satisfying!
 
 ## 🎯 The Goal
 In just 5 minutes (or maybe 10 if you stop for coffee), you’ll experience the thrill of creating a registration form that might just revolutionize the way you sign up for newsletters... or not! But hey, at least it's a good excuse to procrastinate on more important tasks.
